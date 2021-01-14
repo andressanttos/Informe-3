@@ -22,7 +22,7 @@
 
 4. LISTA DE COMPONENTES
 
-![]()
+![](img/equipo%20y%20material.png)
 
 5. EXPLICACIÓN 
 
