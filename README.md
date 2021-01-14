@@ -1,2 +1,2 @@
-# Informe-3
+# Informe 3
 Práctica de Laboratorio 3
