@@ -14,7 +14,7 @@
 
 
 
-![](
+![](img/marco%20teórico.jpg)
 
 
 3. DIAGRAMAS
