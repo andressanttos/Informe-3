@@ -66,6 +66,7 @@ Cuando se aplica el teorema de superposición, es importante reconocer cuando un
 
 
 7. BIBLIOGRAFÍA
+
 • Floyd Thomas L, “Principios de Circuitos Eléctricos”, 8 ed. 2007 .Pearson Educación de México, S.A. de C.V. México, pp. 281-333.
 
 • Johnson, D. E., Hilburn, J. L., Johnson, J. R., & Pozo, V. G. (1987). Análisis básico de circuitos eléctricos. Prentice-Hall Hispanoamericana.
