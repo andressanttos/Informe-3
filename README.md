@@ -25,11 +25,11 @@
 
 ![](img/diagrama%202.png)
 
-*Aplicación del teorema de superposición* 
+*Aplicación del teorema de superposición a la fuente de 12V* 
 
 ![](img/diagrama%203.png)
 
-*Aplicación del teorema de superosición* 
+*Aplicación del teorema de superosición a la fuente de 20V* 
 
 ![](img/diagrama%204.png)
 
