@@ -21,6 +21,18 @@
 
 ![](img/diagrama%201.png)
 
+*Simulación en Tinkercad con las dos fuentes de voltaje*
+
+![](img/diagrama%202.png)
+
+*Aplicación del teorema de superposición* 
+
+![](img/diagrama%203.png)
+
+*Aplicación del teorema de superosición* 
+
+![]img/diagrama%204.png)
+
 4. LISTA DE COMPONENTES
 
 ![](img/equipo%20y%20material.png)
