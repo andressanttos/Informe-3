@@ -39,17 +39,23 @@ Cuando se aplica el teorema de superposición, es importante reconocer cuando un
 
 5. EXPLICACIÓN 
 
+![](https://github.com/andressanttos/Informe-3/blob/main/img/1.png)
+
+![](https://github.com/andressanttos/Informe-3/blob/main/img/2.png)
+
+![](https://github.com/andressanttos/Informe-3/blob/main/img/3.png)
+
+![](https://github.com/andressanttos/Informe-3/blob/main/img/4.png)
+
+![](https://github.com/andressanttos/Informe-3/blob/main/img/5.png)
+
+![](https://github.com/andressanttos/Informe-3/blob/main/img/6.png)
+
+![](https://github.com/andressanttos/Informe-3/blob/main/img/tablas.png)
+
+![](https://github.com/andressanttos/Informe-3/blob/main/img/errores.png)
 
 
--Resultados obtenidos de la corriente de cada malla
-
-Tabla 1.1
-
-![]()
-
-•Calculo del error porcentual 
-
-![](
 6. CONCLUSIONES:
 
 •
