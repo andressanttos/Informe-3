@@ -31,7 +31,7 @@
 
 *Aplicación del teorema de superosición* 
 
-![]img/diagrama%204.png)
+![](img/diagrama%204.png)
 
 4. LISTA DE COMPONENTES
 
