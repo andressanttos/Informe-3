@@ -58,22 +58,23 @@ Cuando se aplica el teorema de superposición, es importante reconocer cuando un
 
 6. CONCLUSIONES:
 
-•	El uso y aplicación del teorema de superposición es de gran efectividad cuando hallamos más de dos fuentes de voltaje (o corriente) presentes en nuestro circuito electróncico y queremos calcular la intensidad que fluye en algun elemento en especifico. En circuitos complejos no resulta práctico el uso de este método pero el mismo valida, por ejemplo, realizar cálculos por separado en un circuito estimulado con corrientes directa y alterna a la vez, como son los circuitos con elementos activos (transistores, circuitos operacionales, etc.), así como los estimulados con señales no sinusoidales.
+•	El uso y aplicación del teorema de superposición es de gran efectividad cuando hallamos más de dos fuentes de voltaje (o corriente) presentes en nuestro circuito electróncico y queremos calcular la intensidad que fluye en algun elemento en especifico. 
 
-•	.
+• En circuitos complejos no resulta práctico el uso de este método pero el mismo valida, por ejemplo, realizar cálculos por separado en un circuito estimulado con corrientes directa y alterna a la vez, como son los circuitos con elementos activos (transistores, circuitos operacionales, etc.), así como los estimulados con señales no sinusoidales.
+
+
 
 
 7. BIBLIOGRAFÍA
 
-•Johnson, D. E., Hilburn, J. L., Johnson, J. R., & Pozo, V. G. (1987). Análisis básico de circuitos eléctricos. Prentice-Hall Hispanoamericana.
+• Johnson, D. E., Hilburn, J. L., Johnson, J. R., & Pozo, V. G. (1987). Análisis básico de circuitos eléctricos. Prentice-Hall Hispanoamericana.
 
-•Alulema Darwin (2020). Capítulo 3. Análisis de mallas. Págs (15-25) 
+• Alulema Darwin (2020). Capítulo 3. Teorema de Superposición. 
 
-•
+• Ayllón Fandiño, E. (1987). Fundamentos de la teoría de los circuitos eléctricos II. La Habana: Pueblo y Educación.
 
-•
+• Bessonov, L. A. (1984).Teoreticheskie osnovi electrotejniki. Moscú: Vysshaia shcola.
 
 
-8. ANEXOS
  
-![]()
+
