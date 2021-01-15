@@ -58,9 +58,7 @@ Cuando se aplica el teorema de superposición, es importante reconocer cuando un
 
 6. CONCLUSIONES:
 
-•
-
-•	  
+•	El uso y aplicación del teorema de superposición es de gran efectividad cuando hallamos más de dos fuentes de voltaje (o corriente) presentes en nuestro circuito electróncico y queremos calcular la intensidad que fluye en algun elemento en especifico. En circuitos complejos no resulta práctico el uso de este método pero el mismo valida, por ejemplo, realizar cálculos por separado en un circuito estimulado con corrientes directa y alterna a la vez, como son los circuitos con elementos activos (transistores, circuitos operacionales, etc.), así como los estimulados con señales no sinusoidales.
 
 •	.
 
